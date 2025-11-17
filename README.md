@@ -25,7 +25,7 @@ rlocus(sys)
 [k poles]=rlocfind(sys)
 ```
 
-## Output:
+## Output: 
 <img width="860" height="769" alt="image" src="https://github.com/user-attachments/assets/a1243bae-72b3-4d7a-a45c-5309fcc78359" />
 
 ## Result:
