@@ -16,7 +16,13 @@ Computer with MATLAB software
 	Click on the crossing point of the root locus to find the value of K and poles at the crossing point.
 	From the value of K, analyse the stability.
 
-## Program: 
+## Program:
+num=[1]
+den=[1 15 50 0]
+sys=tf(num,den)
+rlocus(sys)
+[k poles]=rlocfind(sys)
+
 
 ## Output:
 
