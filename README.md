@@ -19,6 +19,7 @@ Computer with MATLAB software
 ## Program: 
 
 ## Output:
+<img width="625" height="554" alt="image" src="https://github.com/user-attachments/assets/4364ae54-b361-4996-9e28-b619fb2ae916" />
 
 ## Result:
 Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is ------------
