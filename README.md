@@ -10,7 +10,7 @@ Computer with MATLAB software
 
 ## Procedure:
 	Open MATLAB software
-	Open a new script file.
+	Open a new script file..
 	Type the program.
 	Save and Execute the program.
 	Click on the crossing point of the root locus to find the value of K and poles at the crossing point.
